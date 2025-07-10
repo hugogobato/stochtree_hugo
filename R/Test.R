@@ -1,4 +1,3 @@
-library(stochtree_hugo)
 n <- 500
 p <- 5
 X <- matrix(runif(n*p), ncol = p)
